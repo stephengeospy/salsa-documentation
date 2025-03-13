@@ -1,2 +1,0 @@
-# salsa-documentation
-Salsa Documentation
